@@ -1,0 +1,80 @@
+.herosection{
+    margin-left: 7%;
+    margin-top: 10%;
+    display: flex;
+    gap: 8.5%;
+}
+
+.herosection1{
+    width: 38%;
+    height: 505px;
+}
+
+.we-bring{
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 151.1%;
+    text-transform: capitalize;
+    color: #3D4C5E;
+}
+
+#br{
+    color: blue;
+}
+
+.careapp-works{
+    margin-top: 5%;
+    font-family: 'Avenir Next';
+    font-style: normal; 
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 170.1%;
+    text-transform: capitalize;
+    color: #3D4C5E;
+}
+
+.our-doctors{
+    margin-top: 3%;
+    margin-bottom: 17%;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 151.1%;
+    text-transform: capitalize;
+    color: #7D988E;
+}
+
+.chat-btn{
+    padding-left: 6%;
+    display: flex;
+    width: 55%;
+    height: 17%;
+    margin-top: 4%;
+    background: #3772FF;
+    border-color: blue;
+    border-radius: 40px;
+    
+}
+
+.chat{ 
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.wechat{
+    margin-top: 8%;
+    margin-right: 4%;
+}
+
+.herosection2{
+    margin-top: -4.5%;
+    margin-left: 6%;
+}

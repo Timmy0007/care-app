@@ -1,0 +1,123 @@
+.header{
+    margin-top: 3%;
+    margin-left: 7%;
+    display: flex;
+}
+
+.section1{
+    Gap: 40%;
+    display: flex;
+}
+
+.careimg{
+    width: 48px;
+    height: 48px;
+}
+
+.linee{
+        border-left: 1px solid ;
+        height: 50px;
+}
+
+.careapp{
+    margin-top: 6%;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    color: rgba(55, 114, 255, 1);
+}
+
+.section2{
+    margin-top: 0.5%;
+    margin-left: 15%;
+    gap: 55%;
+    display: flex;
+    font-family: 'Avenir Next';
+    font-style: normal;
+}
+
+.home{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-transform: capitalize;
+    color: #3D4C5E;
+}
+
+.services{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #546881;
+}
+
+.payment{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #546881;
+}
+
+.section3{
+    margin-left: 30%;
+    gap: 50%;
+    display: flex;
+    font-family: 'Avenir Next';
+    font-style: normal;
+}
+
+.signup-btn{
+    width: 123px;
+    height: 43px;
+    padding: 8px 28px;
+    background: #3772FF;
+    border-color: #3772FF;
+    border-radius: 40px;
+}
+
+.signup{
+    width: 60px;
+    margin-top: -3%;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 27px;
+    padding-right: 10px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.login-btn{
+    width: 123px;
+    height: 43px;
+    padding: 8px 28px;
+    background: white;
+    border: 3px solid;
+    border-color: whitesmoke;
+    border-radius: 40px;
+}
+
+.login{
+    width: 60px;
+    margin-top: -3%;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 27px;
+    padding-right: 10px;
+    text-transform: capitalize;
+    color: #3772FF;
+}
+
+.hr{
+    margin-top: 1%;
+    width: 100%;
+    border-bottom: 0px solid lime;
+}

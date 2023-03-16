@@ -1,0 +1,40 @@
+.wondering{
+    margin-top: 10%;
+    margin-left: 7%;
+    display: flex;
+}
+
+.wonperson{
+    margin-left: 15%;
+}
+
+.personimg{
+    margin-left: 8%;
+}
+
+.wondering1{
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 66px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #3A4742;
+    width: 60%;
+    height: 132px;
+}
+
+.wondering2{
+    width: 60%;
+    height: 64px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #546881;
+    margin-left: 2%;
+}
