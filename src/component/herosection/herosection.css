@@ -5,13 +5,20 @@
     gap: 8.5%;
 }
 
+
+@font-face {
+    font-family: Avenir Next;
+    src: url(../../font/avenir/AvenirNextLTPro-Regular.otf);
+}
+
+
 .herosection1{
     width: 38%;
     height: 505px;
 }
 
 .we-bring{
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 600;
     font-size: 48px;
@@ -26,7 +33,7 @@
 
 .careapp-works{
     margin-top: 5%;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal; 
     font-weight: 500;
     font-size: 20px;
@@ -38,7 +45,7 @@
 .our-doctors{
     margin-top: 3%;
     margin-bottom: 17%;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -60,7 +67,7 @@
 }
 
 .chat{ 
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;

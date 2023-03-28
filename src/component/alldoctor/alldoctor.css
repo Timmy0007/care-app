@@ -1,0 +1,234 @@
+.alldoctor{
+    background-color: whitesmoke;
+    margin-top: 7%;
+    height: 1510px;
+}
+
+.medical{
+    margin-left: 30%;
+    display: flex;
+}
+
+@font-face {
+    font-family: Avenir Next;
+    src: url(../../font/avenir/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../../font/poppins/Poppins-Regular.ttf);
+}
+
+.medical1{
+    width: 668px;
+    height: 66px;
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 600; 
+    font-size: 48px;
+    line-height: 66px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #3A4742;
+}
+
+.medical2{
+    margin-left: 5%;
+    width: 568px;
+    height: 96px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #546881;
+}
+
+.syringe{
+    margin-left: 18%;
+    width: 13%;
+    height: 17%;
+}
+
+.alldoctors{
+    margin-top: 3%;
+    margin-left: 7%;
+}
+
+.add-btn{
+    width: 10%;
+    height: 42px;
+    border: 0.5px solid #7D988E;
+    background: white;
+    border-radius: 40px;
+    margin-left: 2%;
+}
+
+.alld{
+    margin-top: 6%;
+    width: 100%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#alldocc1{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc1:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+#alldocc2{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc2:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+#alldocc3{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc3:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+
+#alldocc4{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc4:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+
+#alldocc5{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc5:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+#alldocc6{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc6:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+#alldocc7{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc7:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+#alldocc8{
+    border: 0.5px solid #7D988E;
+    background: white;
+    color: black;
+}
+
+#alldocc8:hover{
+    background: #7D988E;
+    transition-duration: 1s;
+    color: white;
+}
+
+.doctors{
+    width: 100%;
+}
+
+.d1, .d2{
+    display: flex;
+    margin-left: 13%;
+    margin-top: 7%;
+    gap: 9%;
+}
+
+.doctors1{
+    width: 320px;
+    height: 320px;
+    border-radius: 8px;
+}
+
+.doctorname{
+    width: 80%;
+    height: 27px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #1D242D;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+
+.doctorwork{
+    width: 105px;
+    height: 22px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #1D242D;
+    margin-left: 37%;
+}
+
+#cardioname{
+    margin-left: 27%;
+}
+
+#neuroname{
+    margin-left: 27%;
+}
+
+#gynename{
+    margin-left: 25%;
+}
+

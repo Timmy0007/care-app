@@ -12,11 +12,19 @@
     height: 160px;
 }
 
+@font-face {
+    font-family: Avenir Next;
+    src: url(../../font/avenir/AvenirNextLTPro-Regular.otf);
+}
 
+@font-face {
+    font-family: Poppins;
+    src: url(../../font/poppins/Poppins-Regular.ttf);
+}
 
 .plus1, .plus2{
     border-radius: 24px;
-    font-family: 'Poppins';
+    font-family: Poppins;
     font-style: normal;
     font-weight: 500;
     font-size: 40px;
@@ -31,7 +39,7 @@
 
 .plus3{
     border-radius: 24px;
-    font-family: 'Poppins';
+    font-family: Poppins;
     font-style: normal;
     font-weight: 500;
     font-size: 40px;
@@ -59,7 +67,7 @@
 }
 
 .pat, .regd{
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 500;
     font-size: 28px;
@@ -73,7 +81,7 @@
 }
 
 .happy{
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 500;
     font-size: 28px;

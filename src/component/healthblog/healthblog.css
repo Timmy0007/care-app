@@ -1,0 +1,90 @@
+.health{
+    background-color: whitesmoke;
+    padding-left: 7%;
+}
+
+@font-face {
+    font-family: Avenir Next;
+    src: url(../../font/avenir/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../../font/poppins/Poppins-Regular.ttf);
+}
+
+.health1{
+    display: flex;
+}
+
+.heartimg{
+    width: 150px;
+    height: 150px;
+}
+
+.healthdiv{
+    margin-top: 6%;
+    margin-left: 15%;
+}
+
+.health2{
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 66px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    color: #3A4742;
+}
+
+.health3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #546881;
+}
+
+
+.caro{
+    margin-top: 8%;
+}
+
+
+.name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #3772FF;
+}
+
+.description{
+    width: 70%;
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #3A4742;
+}
+
+.description2{
+    width: 70%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #47586E;
+}
+

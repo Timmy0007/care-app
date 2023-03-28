@@ -1,7 +1,10 @@
-.insurance{
-    margin-left: 7%;
-    margin-top: 10%;
-    display: flex;
+.steth{
+    background-image: url(../../assets/stethimg.png);
+    background-size: cover;
+    height: 808px;
+    margin-top: 5%;
+    padding-top: 20%;
+    padding-left: 7%;
 }
 
 @font-face {
@@ -14,59 +17,49 @@
     src: url(../../font/poppins/Poppins-Regular.ttf);
 }
 
-.worry{
-    width: 525px;
-    height: 216px;
+.steth1{
+    width: 55%;
+    height: 198px;
     font-family: Avenir Next;
     font-style: normal;
-    font-weight: 600;
-    font-size: 48px;
-    line-height: 150.6%;
+    font-weight: 800;
+    font-size: 53px;
+    line-height: 66px;
     text-transform: capitalize;
-    color: #3A4742;
+    color: #FFFFFF;
 }
 
-
-.worry2{
+.steth2{
     margin-top: 4%;
-    width: 530px;
-    height: 240px;
+    width: 50%;
+    height: 96px;
     font-family: Poppins;
     font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 140%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
     text-transform: capitalize;
-    color: #546881;
+    color: #FFFFFF;
 }
 
-.healthworry{
-    color:rgba(55, 114, 255, 1);
+.steth3{
+    height: 50%;
 }
 
-.worry2a{
-    margin-top: 5%;
-}
-
-.insurance2{
-    margin-left: 13%;
-    margin-top: 6%;
-}
-
-
-.chatd{
-    padding-left: 6%;
+.stethchat{
+    padding-left: 3%;
     display: flex;
-    width: 55%;
-    height: 13%;
-    margin-top: 18%;
+    width: 22%;
+    height: 17%;
+    margin-top: 7%;
     background: #3772FF;
     border-color: blue;
     border-radius: 40px;
     
 }
 
-.chat2{ 
+.stethchat2{ 
+    margin-top: 5.5%;
     font-family: Avenir Next;
     font-style: normal;
     font-weight: 600;
@@ -76,7 +69,7 @@
     color: #FFFFFF;
 }
 
-.wechat2{
-    margin-top: 8%;
+.stethwechat{
+    margin-top: 5.5%;
     margin-right: 4%;
 }

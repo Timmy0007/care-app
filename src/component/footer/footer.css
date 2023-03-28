@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    margin-top: 5%;
+    padding-top: 7%;
+    padding-left: 7%;
+}
+
+@font-face {
+    font-family: Avenir Next;
+    src: url(../../font/avenir/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../../font/poppins/Poppins-Regular.ttf);
+}
+
+.footer1{
+    display: flex;
+    gap: 15%;
+}
+
+.footer2{
+    margin-left: 25%;
+}

@@ -4,8 +4,23 @@
     display: flex;
 }
 
+@font-face {
+    font-family: Avenir Next;
+    src: url(../font/avenir/AvenirNextLTPro-Regular.otf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Space Grotesk;
+    src: url(../font/space/static/SpaceGrotesk-Regular.ttf);
+}
+
 .section1{
-    Gap: 40%;
+    Gap: 40%; 
     display: flex;
 }
 
@@ -21,7 +36,7 @@
 
 .careapp{
     margin-top: 6%;
-    font-family: 'Space Grotesk';
+    font-family: Space Grotesk;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -34,7 +49,7 @@
     margin-left: 15%;
     gap: 55%;
     display: flex;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
 }
 
@@ -67,7 +82,7 @@
     margin-left: 30%;
     gap: 50%;
     display: flex;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
 }
 
@@ -83,7 +98,7 @@
 .signup{
     width: 60px;
     margin-top: -3%;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
@@ -106,7 +121,7 @@
 .login{
     width: 60px;
     margin-top: -3%;
-    font-family: 'Avenir Next';
+    font-family: Avenir Next;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
