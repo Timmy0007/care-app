@@ -3,6 +3,12 @@
     margin-top: 5%;
     padding-top: 7%;
     padding-left: 7%;
+    margin-bottom: 70px;
+}
+
+.careimg2{
+    width: 48px;
+    height: 48px;
 }
 
 @font-face {
@@ -15,11 +21,98 @@
     src: url(../../font/poppins/Poppins-Regular.ttf);
 }
 
+.footer1, .footer2, .footer3, .footer4{
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #546881;
+}
+
+.footernews{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #3D4C5E;
+}
+
 .footer1{
     display: flex;
     gap: 15%;
 }
 
 .footer2{
-    margin-left: 25%;
+    margin-left: 20%;
+}
+
+.footerdoc{
+    margin-top: 60px;
+}
+
+.footer3, .footer4{
+    margin-left: 7%;
+}
+
+.footerhealth{
+    width: 120px;
+}
+
+.footerfaq{
+    margin-top: 60px;
+}
+
+.footertc{
+    margin-top: 60px;
+}
+
+.footer5{
+    margin-left: 10%;
+}
+
+.footersub{
+    margin-top: 30px ;
+    width: 75%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #3D4C5E;
+}
+
+.buttonimg{
+    width: 40px;
+    height: 33px;
+}
+
+.buttonimg2{
+    margin-left: -10%;
+    margin-bottom: -16px;
+    width: 40px;
+    height: 40px;
+}
+
+.footerinput{
+    margin-top: 40px;
+}
+
+.inp{
+    width: 283px;
+    height: 48px;  
+    border: 2px solid #909DAD;
+    border-radius: 60px;
+    padding-left: 5%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #909DAD;
 }

@@ -30,9 +30,9 @@ const footer = () => {
     <div className='footer5'>
     <div className='footernews'><b>NEWSLETTER</b></div>
     <div className='footersub'>Subscribe To Newsletter To Get Health Stories And Health Related News</div>
-    <div className='input'>
-    <input className='inp'/>
-    <button className='buttonimg'><img src={buttonimg}/></button>
+    <div className='footerinput'>
+    <input className='inp' placeholder='Enter Your email'/>
+    <img className='buttonimg2' src={buttonimg}/>
     </div>
     </div>
 
