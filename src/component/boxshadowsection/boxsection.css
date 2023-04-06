@@ -94,3 +94,62 @@
     margin-left: -30%;
     margin-top: 19%;
 }
+
+@media screen and (max-width: 720px) {
+
+    .boxsection{
+        margin-top: -120px;
+        padding-left: 2%;
+        margin-left: 2%;
+        width: 90%;
+        gap: 10%;
+    }
+
+    .pat, .regd, .happy{
+        font-size: 20px;
+    }
+
+    .pat{
+        margin-left: 12%;
+        width: 80%;
+    }
+
+    .box1{
+        width: 450px;
+    }
+
+    .plus1{
+        padding-top: 28px;
+        padding-left: 15%;
+    }
+
+    .box2{
+        margin-left: 20px;
+        width: 350px;
+    }
+
+    .plus2{
+        padding-top: 28px;
+        padding-left: 25%;
+    }
+
+    .regd{
+            margin-left: 12%;
+            width: 80%;
+    }
+
+    .box3{
+        width: 450px;
+    }
+
+    .plus3{
+        margin-left: 40px;
+        padding-top: 28px;
+        padding-left: 40px;
+    }
+
+    .happy{
+            margin-left: 12%;
+            width: 90%;
+    }
+}

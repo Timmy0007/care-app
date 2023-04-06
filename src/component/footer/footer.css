@@ -116,3 +116,16 @@
     text-transform: capitalize;
     color: #909DAD;
 }
+
+@media screen and (max-width: 720px) {
+
+    .footer2{
+        margin-left: 80px;
+    }
+
+    .footer5{
+      margin-left: -480px;
+      margin-top: 200px;
+}
+
+}

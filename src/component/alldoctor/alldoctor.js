@@ -40,13 +40,13 @@ const alldoctor = () => {
                 <div className='doctorwork' id='gyne1'>Gynecologist</div>
             </div>
 
-            <div className='doctors1'>
+            <div className='doctors1' id='cardiodoc'>
             <img className='doctorimg' src={cardio1}/>
                 <div className='doctorname' id='cardioname'>Kayode Jonathan</div>
                 <div className='doctorwork' id='cardiowork'>Cardiologist</div>
             </div>
 
-            <div className='doctors1'>
+            <div className='doctors1' id='neurodoc'>
             <img className='doctorimg' src={neuro1}/>
                 <div className='doctorname' id='neuroname'>Ifeoluwa Kehinde</div>
                 <div className='doctorwork' id='neurowork'>Neurologist</div>
@@ -55,22 +55,22 @@ const alldoctor = () => {
 
 
             <div className='d2'>
-            <div className='doctors1'>
+            <div className='doctors1' id='gynedoc'>
             <img className='doctorimg' src={gyne2}/>
                 <div className='doctorname' id='gynename'>Tunde Emmanuel</div>
                 <div className='doctorwork' id='gynework'>Gynecologist</div>
             </div>
 
-            <div className='doctors1'>
+            <div className='doctors1' id='cardiodoc2'>
             <img className='doctorimg' src={cardio2}/>
                 <div className='doctorname' id='cardioname2'>Oluwatomisin Josephine</div>
-                <div className='doctorwork'>Cardiologist</div>
+                <div className='doctorwork' id='cardiowork2'>Cardiologist</div>
             </div>
 
-            <div className='doctors1'>
+            <div className='doctors1' id='neurodoc2'>
             <img className='doctorimg' src={neuro2}/>
-                <div className='doctorname'>Temitope Funmilayo</div>
-                <div className='doctorwork'>Neurologist</div>
+                <div className='doctorname' id='neuroname2'>Temitope Funmilayo</div>
+                <div className='doctorwork' id='neurowork2'>Neurologist</div>
             </div>
             </div>
 

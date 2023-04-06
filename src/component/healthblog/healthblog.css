@@ -88,3 +88,27 @@
     color: #47586E;
 }
 
+
+@media screen and (max-width: 720px) {
+
+    .health{
+        margin-top: -500px;
+        padding-left: 2%;
+    }
+    .heartimg{
+        margin-left: 1px;
+    }
+    .healthdiv{
+        margin-left: -5%;
+        margin-top: 90px;
+    }
+    .health3{
+        width: 85%;
+    }
+
+
+}
+
+@media screen and (max-width: 900px) {
+    
+}

@@ -49,3 +49,30 @@
     color: #546881;
     margin-left: 2%;
 }
+
+@media screen and (max-width: 720px) {
+    .wondering{
+        margin-left: 0;
+        margin-bottom: 150px;
+    }
+
+    .wonperson{
+        margin-left: 0;
+    }
+
+    .personimg{
+        margin-left: -10%;
+    }
+
+    .wondering1{
+        width: 400px;
+        line-height: 44px;
+        font-size: 32px;
+    }
+
+    .wondering2{
+        width: 400px;
+        line-height: 24px;
+        font-size: 22px;
+    }
+}

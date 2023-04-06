@@ -214,3 +214,26 @@
 .strand{
     margin-left: 80%;
 }
+
+@media screen and (max-width: 720px) {
+
+    .doctorsit2{
+        display: none;
+    }
+
+    .signupp{
+        width: 120px;
+    }
+
+    .verif{
+        width: 130px;
+    }
+
+    .makepay{
+        width: 150px;
+    }
+
+    .cons{
+        width: 130px;
+    }
+}

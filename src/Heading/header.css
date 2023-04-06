@@ -137,31 +137,410 @@
 }
 
 
+@media screen and (max-width: 720px) {
 
- /* Extra small devices (phones, 600px and down) */
- @media only screen and (max-width: 600px) {
+   .header{
+    margin-left: 3% ;
+   }
 
- }
+   .section1{
+    gap: 10%;
+   }
 
+   .section2{
+    margin-left: 6%;
+    gap: 10%;
+   }
 
- /* Small devices (portrait tablets and large phones, 600px and up) */
- @media only screen and (min-width: 600px) {
+   .home, .services, .payment{
+    font-size: 17px;
+   }
 
- }
+   .services, .payment{
+    margin-top: 1%;
+   }
 
- 
- /* Medium devices (landscape tablets, 768px and up) */
- @media only screen and (min-width: 768px) {
+   .section3{
+    gap: 2%;
+    margin-top: 1%;
+    margin-left: 9%;
+   }
 
-    .header{
-    margin-left: 3%;
+   .header-signup-btn{
+    width: 75px;
+    height: 30px;
+   }
+
+   .signup{
+    width: 70px;
+    font-size: 14px;
+    margin-left: -49%;
+    margin-top: -8px;
+   }
+
+   .login-btn{
+    margin-left: 10%;
+    width: 75px;
+    height: 30px;
+   }
+
+   .login{
+    width: 70px;
+    font-size: 14px;
+    margin-left: -28px;
+    margin-top: -8px;
+   }
 }
 
-    .section1{
-        gap: 10%;
-    }
+@media screen and (min-width: 721px) and (max-width: 821px) {
+ 
+    .header{
+        margin-left: 5% ;
+       }
+    
+       .section1{
+        gap: 15%;
+       }
+    
+       .section2{
+        margin-left: 10%;
+        gap: 15%;
+       }
+    
+       .home, .services, .payment{
+        font-size: 18px;
+       }
+    
+       .services, .payment{
+        margin-top: 5px;
+       }
+    
+       .section3{
+        gap: 2%;
+        margin-top: 1%;
+        margin-left: 14%;
+       }
+    
+       .header-signup-btn{
+        width: 75px;
+        height: 30px;
+       }
+    
+       .signup{
+        width: 70px;
+        font-size: 14px;
+        margin-left: -49%;
+        margin-top: -8px;
+       }
+    
+       .login-btn{
+        margin-left: 10%;
+        width: 75px;
+        height: 30px;
+       }
+    
+       .login{
+        width: 70px;
+        font-size: 14px;
+        margin-left: -28px;
+        margin-top: -8px;
+       }
 
-    .
+}
 
- }
+@media screen and (min-width: 822px) and (max-width: 921px) {
 
+    .header{
+        margin-left: 7% ;
+       }
+    
+       .section1{
+        gap: 15%;
+       }
+    
+       .section2{
+        margin-left: 12%;
+        gap: 20%;
+       }
+    
+       .home, .services, .payment{
+        font-size: 21px;
+       }
+    
+       .services, .payment{
+        margin-top: 5px;
+       }
+    
+       .section3{
+        gap: 3%;
+        margin-top: 1%;
+        margin-left: 15%;
+       }
+    
+       .header-signup-btn{
+        width: 75px;
+        height: 30px;
+       }
+    
+       .signup{
+        width: 70px;
+        font-size: 14px;
+        margin-left: -49%;
+        margin-top: -8px;
+       }
+    
+       .login-btn{
+        margin-left: 10%;
+        width: 75px;
+        height: 30px;
+       }
+    
+       .login{
+        width: 70px;
+        font-size: 14px;
+        margin-left: -28px;
+        margin-top: -8px;
+       }
+    
+}
+
+@media screen and (min-width: 921px) and (max-width: 1000px) {
+    .header{
+    margin-left: 7% ;
+   }
+
+   .section1{
+    gap: 17%;
+   }
+
+   .section2{
+    margin-left: 13%;
+    gap: 18%;
+   }
+
+   .home, .services, .payment{
+    font-size: 22px;
+   }
+
+   .services, .payment{
+    margin-top: 5px;
+   }
+
+   .section3{
+    gap: 2%;
+    margin-top: 1%;
+    margin-left: 14%;
+   }
+
+   .header-signup-btn{
+    width: 105px;
+    height: 35px;
+   }
+
+   .signup{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -5%;
+    margin-top: -6px;
+   }
+
+   .login-btn{
+    margin-left: 10%;
+    width: 105px;
+    height: 35px;
+   }
+
+   .login{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -10px;
+    margin-top: -6px;
+   }
+}
+
+   @media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .header{
+    margin-left: 7% ;
+   }
+
+   .section1{
+    gap: 25%;
+   }
+
+   .section2{
+    margin-left: 13%;
+    gap: 21%;
+   }
+
+   .home, .services, .payment{
+    font-size: 24px;
+   }
+
+   .services, .payment{
+    margin-top: 5px;
+   }
+
+   .section3{
+    gap: 3%;
+    margin-top: 1%;
+    margin-left: 17%;
+   }
+
+   .header-signup-btn{
+    width: 105px;
+    height: 35px;
+   }
+
+   .signup{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -5%;
+    margin-top: -6px;
+   }
+
+   .login-btn{
+    margin-left: 10%;
+    width: 105px;
+    height: 35px;
+   }
+
+   .login{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -10px;
+    margin-top: -6px;
+   }
+}
+
+@media screen and (min-width: 1101px) and (max-width: 1200px) {
+    .header{
+    margin-left: 7% ;
+   }
+
+   .section1{
+    gap: 25%;
+   }
+
+   .section2{
+    margin-left: 16%;
+    gap: 21%;
+   }
+
+   .home, .services, .payment{
+    font-size: 26px;
+   }
+
+   .services, .payment{
+    margin-top: 5px;
+   }
+
+   .section3{
+    gap: 3%;
+    margin-top: 1%;
+    margin-left: 17%;
+   }
+
+   .header-signup-btn{
+    width: 105px;
+    height: 35px;
+   }
+
+   .signup{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -5%;
+    margin-top: -6px;
+   }
+
+   .login-btn{
+    margin-left: 10%;
+    width: 105px;
+    height: 35px;
+   }
+
+   .login{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -10px;
+    margin-top: -6px;
+   }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1280px) {
+    .header{
+    margin-left: 7% ;
+   }
+
+   .section1{
+    gap: 30%;
+   }
+
+   .section2{
+    margin-left: 13%;
+    gap: 34%;
+   }
+
+   .home, .services, .payment{
+    font-size: 27px;
+   }
+
+   .services, .payment{
+    margin-top: 5px;
+   }
+
+   .section3{
+    gap: 5%;
+    margin-top: 1%;
+    margin-left: 26%;
+   }
+
+   .header-signup-btn{
+    width: 105px;
+    height: 35px;
+   }
+
+   .signup{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -5%;
+    margin-top: -6px;
+   }
+
+   .login-btn{
+    margin-left: 10%;
+    width: 105px;
+    height: 35px;
+   }
+
+   .login{
+    width: 70px;
+    font-size: 17px;
+    margin-left: -10px;
+    margin-top: -6px;
+   }
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1400px) {
+
+    .section2{
+        margin-left: 17%;
+        gap: 38%;
+       }
+    
+       .home, .services, .payment{
+        font-size: 28px;
+       }
+    
+       .section3{
+        margin-left: 23%;
+        gap: 4%;
+       }
+}
+
+
+@media screen and (min-width: 1401px) and (max-width: 1440px) {
+    .section3{
+        margin-left: 30%;
+        gap: 30%;
+       }
+}

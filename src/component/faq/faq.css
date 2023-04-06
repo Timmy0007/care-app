@@ -134,3 +134,33 @@
 .iquest{
     width: 92%;
 }
+
+
+@media screen and (max-width: 720px) {
+
+    .faq{
+        margin-left: 1px;
+    }
+    .faqimg{
+        display: none;
+    }
+    .faqheading{
+        font-size: 32px ;
+        margin-left: -50px;
+    }
+    .faqsub{
+        font-size: 18px;
+        margin-left: -10px;
+        width: 90%;
+    }
+
+    .question{
+        font-size: 19px;
+        line-height: 25px;
+    }
+    
+    .answers{
+        font-size: 19px;
+        line-height: 27px;
+    }
+}
