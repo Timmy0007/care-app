@@ -57,7 +57,7 @@
 .chat-btn{
     padding-left: 6%;
     display: flex;
-    width: 55%;
+    width: 65%;
     height: 17%;
     margin-top: 4%;
     background: #3772FF;
@@ -70,7 +70,7 @@
     font-family: Avenir Next;
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 27px;
     line-height: 33px;
     text-transform: capitalize;
     color: #FFFFFF;
@@ -88,31 +88,21 @@
 
 
 
- /* Extra small devices (phones, 600px and down) */
- @media only screen and (max-width: 600px) {
-
- }
-
-
- /* Small devices (portrait tablets and large phones, 600px and up) */
- @media only screen and (min-width: 600px) {
-
- }
 
  @media screen and (max-width: 720px) {
     .we-bring{
-        font-size: 32px;
+        font-size: 22px;
     }
 
     .careapp-works, .our-doctors{
-        font-size: 23px;
+        font-size: 17px;
     }
 
     .herosection2{
         margin-left: 1%;
     }
     .heroimg{
-        margin-top: 200px;
+        margin-top: 70px;
         width: 300px ;
         height: 350px ;
     }
@@ -122,21 +112,94 @@
     }
 
     .chat-btn{
-        width:175px;
+        width:80%;
         height: 50px;
        }
     
        .chat{
-        width: 120px;
+        width: 90%;
         font-size: 14px;
-        margin-left: -5px;
+        margin-left: -5%;
         margin-top: 7px;
        }
     
        .wechat{
-        margin-left: 1px;
-        width: 20px;
+        margin-left: 0.2%;
+        width: 15%;
         height: 20px;
        }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .we-bring{
+        font-size: 27px;
+    }
+
+    .careapp-works, .our-doctors{
+        font-size: 19px;
+    }
+        .heroimg{
+            width: 100%;
+            height: 80%;
+        }
+
+        .chat-btn{
+            width:90%;
+            height: 50px;
+           }
+           .chat{
+            width: 90%;
+            font-size: 14px;
+            margin-left: -5%;
+            margin-top: 7px;
+           }
+        
+           .wechat{
+            margin-left: 0.2%;
+            width: 15%;
+            height: 20px;
+           }
+
+           .herosection{
+            margin-bottom: 450px;
+        }
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1380px) {
+
+    .we-bring{
+        font-size: 37px;
+    }
+
+    .careapp-works, .our-doctors{
+        font-size: 25px;
+    }
+        .heroimg{
+            margin-top: 50px;
+            width: 100%;
+            height: 80%;
+        }
+
+        .chat-btn{
+            width:70%;
+            height: 50px;
+           }
+           .chat{
+            width: 90%;
+            font-size: 20px;
+            margin-left: -5%;
+            margin-top: 7px;
+           }
+        
+           .wechat{
+            margin-left: 0.2%;
+            width: 15%;
+            height: 20px;
+           }
+
+           .herosection{
+            margin-bottom: 450px;
+        }
 }
  

@@ -18,7 +18,7 @@ const insurance = () => {
 
 
         <div className='insurance2'>
-        <img src={insuranceimg}/>
+        <img className='insimg' src={insuranceimg}/>
         </div>
 
     </div>

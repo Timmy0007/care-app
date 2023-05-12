@@ -237,3 +237,131 @@
         width: 130px;
     }
 }
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .doctorsit{
+        margin-top: 120px;
+    }
+
+    .how{
+        margin-top: 70px;
+    }
+
+    .signupp{
+        width: 25%;
+    }
+
+    .signupp2{
+        font-size: 16px;
+    }
+
+    .verif{
+        width: 28%;
+    }
+
+    .verif2{
+        font-size: 16px;
+    }
+
+    .makepay{
+        margin-top: 80px;
+        width: 37%;
+    }
+
+    .makepay2{
+        font-size: 16px;
+    }
+
+    .cons{
+        margin-top: 80px;
+        width: 33%;
+    }
+
+    .cons2{
+        font-size: 16px;
+    }
+
+    .doctorsit2{
+        margin-top: 220px;
+        margin-left: -13%;
+    }
+    .doctorsitimg{
+        width: 100%;
+        height: 60%;
+    }
+
+    .strand{
+        width: 15%;
+        height: 10%;
+    }
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1580px) {
+
+    .doctorsit{
+        margin-top: 120px;
+    }
+
+    .how{
+        margin-top: 70px;
+    }
+
+    .signupp{
+        width: 18%;
+        height: 4%;
+    }
+
+    .signupp1, .verif1, .makepay1, .cons1{
+        font-size: 17px;
+    }
+
+    .signupp2{
+        font-size: 20px;
+    }
+
+    .verif{
+        margin-top: 80px;
+        width: 21%;
+        height: 4%;
+    }
+
+    .verif2{
+        font-size: 20px;
+    }
+
+    .makepay{
+        margin-top: 80px;
+        width: 26%;
+        height: 4.5%;
+    }
+
+    .makepay2{
+        font-size: 20px;
+    }
+
+    .cons{
+        margin-top: 110px;
+        width: 23%;
+        height: 4%;
+    }
+
+    .cons2{
+        font-size: 20px;
+    }
+
+    .doctorsit2{
+        margin-top: 300px;
+        margin-left: -13%;
+    }
+    .doctorsitimg{
+        width: 120%;
+        height: 80%;
+    }
+
+    .strand{
+        width: 15%;
+        height: 10%;
+    }   
+
+}

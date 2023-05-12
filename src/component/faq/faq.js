@@ -42,7 +42,7 @@ const Faq = () => {
     
      <hr id='queshr'/>
 
-    <div className={ selected=== i? 'answers' : 'answer' }>
+    <div id='answerr' className={ selected=== i? 'answers' : 'answer' }>
       <p className='answer1'>{item.Answer}</p>
       <p className='answer2'>{item.Answer2}</p>
     </div>

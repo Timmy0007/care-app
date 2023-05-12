@@ -76,3 +76,40 @@
         font-size: 22px;
     }
 }
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .wonperson{
+        margin-left: -5%;
+    }
+
+    .wondering1{
+        width: 75% ;
+        font-size: 28px
+    }
+
+    .wondering2{
+        width:75%;
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1480px) {
+
+    .wonperson{
+        margin-left: 12%;
+    }
+
+    .personimg{
+        margin-left: 10%;
+    }
+    .wondering1{
+        width: 85% ;
+        font-size: 32px
+    }
+
+    .wondering2{
+        width:85%;
+        font-size: 24px;
+    }
+}

@@ -346,3 +346,224 @@
         width: 220px;
     }
 }
+
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .medical{
+        margin-left: 10%;
+    }
+
+    .medical1{
+        margin-left: -5%;
+        font-size: 35px;
+    }
+
+    .medical2{
+        margin-left: 2%;
+        font-size: 19px;
+    }
+
+    .alldoctors{
+        display: none;
+    }
+
+    .d1, .d2{
+        gap: 1%;
+        margin-left: 10%;
+    }
+
+    .syringe{
+        margin-left: -17%;
+    }
+    #cardiodoc, #neurodoc, #cardiodoc2{
+        margin-left: -5%;
+    }
+
+    #neurodoc2{
+        margin-left: -5%;
+    }
+
+    .doctorimg{
+        width: 75%;
+    }
+
+    #gynename{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #gyne1{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardiowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+    
+    #gynework{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname2{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork2{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname2{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+}
+@media screen and (min-width: 1021px) and (max-width: 1480px) {
+
+
+    .medical1{
+        margin-left: -17%;
+    }
+
+    .medical2{
+        margin-left: -10%;
+    }
+
+    .alldoctors{
+        margin-left: 3%;
+    }
+    .alld{
+        font-size: 13px;
+        height: 25%;
+    }
+    
+    .syringe{
+        margin-left: -17%;
+    }
+
+    .d1, .d2{
+        width: 90%;
+        gap: 5%;
+        margin-left: 10%;
+    }
+
+
+    .doctorimg{
+        width: 75%;
+    }
+
+    #gynename{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #gyne1{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardiowork{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+    
+    #gynework{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname2{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork2{
+        font-size: 17px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname2{
+        font-size: 20px;
+        margin-left: 3%;
+        width: 100%;
+    }
+}

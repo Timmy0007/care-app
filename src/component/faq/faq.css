@@ -164,3 +164,53 @@
         line-height: 27px;
     }
 }
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .faqsub{
+        width: 90%;
+    }
+
+    .faqheading{
+        margin-left: -9%;
+        font-size: 40px;
+    }
+
+    .faqimg{
+        width: 20%;
+        margin-left: -30%;
+    }
+
+    .question{
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    #answerr{
+        font-size: 19px;
+    }
+
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1480px) {
+
+    .faqsub{
+        font-size: 23px;
+        width: 95%;
+    }
+
+    .faqimg{
+        width: 20%;
+        margin-left: -30%;
+    }
+    
+    .question{
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    #answerr{
+        font-size: 21px;
+    }
+
+}

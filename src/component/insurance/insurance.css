@@ -87,3 +87,51 @@
         display: none;
     }
 }
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+
+    .worry{
+        width: 80%;
+        font-size: 37px;
+    }
+
+    .worry2{
+        font-size: 22px;
+        width: 330px;
+        margin-bottom: 180px;
+    }
+    
+    .insimg{
+        margin-left:-25%;
+        margin-top: 140px;
+        width: 120%;
+    }
+
+    .chatd{
+        width: 90%;
+        height: 80px;
+    }
+
+    .chat2{
+        font-size: 27px;
+    }
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1380px) {
+
+    .insimg{
+        margin-left:-30%;
+        margin-top: 50px;
+        width: 120%;
+    }
+
+    .chatd{
+        width: 70%;
+        height: 90px;
+    }
+
+    .chat2{
+        font-size: 32px;
+    }
+}

@@ -109,6 +109,14 @@
 
 }
 
-@media screen and (max-width: 900px) {
-    
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .healthdiv{
+        margin-left: -10%;
+    }
+
+    .health3{
+        margin-left: 10%;
+        width: 80%;
+    }
 }

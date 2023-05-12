@@ -129,3 +129,22 @@
 }
 
 }
+
+
+@media screen and (min-width: 721px) and (max-width: 1021px) {
+
+    .footer5{
+        margin-left: -480px;
+        margin-top: 200px;
+  }
+
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1480px) {
+
+    .footer5{
+        margin-left: -480px;
+        margin-top: 200px;
+  }
+   
+}
