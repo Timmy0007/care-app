@@ -136,8 +136,64 @@
     border-bottom: 0px solid lime;
 }
 
+@media screen and (min-width: 350px) and (max-width: 569px) {
 
-@media screen and (max-width: 720px) {
+
+    .hr{
+        margin-top: 1%;
+        width:250%;
+    }
+
+    .header{
+        margin-left: 3% ;
+       }
+    
+       .section1{
+        gap: 10%;
+       }
+    
+       .section2{
+        margin-left: 25%;
+        gap: 30%;
+       }
+    
+       .home, .services, .payment{
+        font-size: 18px;
+       }
+    
+       .services, .payment{
+        margin-top: 1%;
+       }
+    
+       .section3{
+        gap: 2%;
+        margin-top: 1%;
+        margin-left: 40%;
+       }
+    
+       .header-signup-btn{
+        width: 50%;
+        height: 35px;
+       }
+    
+       .signup{
+        font-size: 18px;
+        margin-top: -8px;
+       }
+    
+       .login-btn{
+        margin-left: 10%;
+        width: 45%;
+        height: 35px;
+       }
+    
+       .login{
+        font-size: 18px;
+        margin-top: -8px;
+       } 
+
+}
+@media screen and (min-width: 570px) and (max-width: 720px) {
 
    .header{
     margin-left: 3% ;

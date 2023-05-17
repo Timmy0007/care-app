@@ -88,8 +88,25 @@
     color: #47586E;
 }
 
+@media screen and (min-width: 350px) and (max-width: 569px) {
 
-@media screen and (max-width: 720px) {
+    .health{
+        background-color: whitesmoke;
+        padding-left: 7%;
+    }
+    
+    .healthdiv{
+        margin-left: -10%;
+    }
+
+    .health3{
+        margin-left: 10%;
+        width: 80%;
+    }
+
+}
+
+@media screen and (min-width: 570px) and (max-width: 720px) {
 
     .health{
         margin-top: -500px;

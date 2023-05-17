@@ -232,9 +232,131 @@
     margin-left: 25%;
 }
 
+@media screen and (min-width: 350px) and (max-width: 569px) {
 
+    .alldoctor{
+        margin-left: 2%;
+        width: fit-content;
+        background-color: whitesmoke;
+    }
 
-@media screen and (max-width: 720px) {
+    .medical{
+        margin-left: 10%;
+    }
+
+    .medical1{
+        margin-left: -3%;
+        font-size: 35px;
+    }
+
+    .medical2{
+        margin-left: 5%;
+        font-size: 19px;
+    }
+
+    .doctors{
+        margin-left: -4%;
+    }
+
+    .alldoctors{
+        display: none;
+    }
+
+    .d1, .d2{
+        gap: 1%;
+        margin-left: 10%;
+    }
+
+    .syringe{
+        margin-left: -7%;
+    }
+    #cardiodoc, #neurodoc, #cardiodoc2{
+        margin-left: -5%;
+    }
+
+    #neurodoc2{
+        margin-left: -5%;
+    }
+
+    .doctorimg{
+        width: 75%;
+    }
+
+    #gynename{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #gyne1{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardiowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+    
+    #gynework{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neuroname2{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #neurowork2{
+        font-size: 14px;
+        margin-left: 3%;
+        width: 100%;
+    }
+
+    #cardioname2{
+        font-size: 15px;
+        margin-left: 3%;
+        width: 100%;
+    } 
+
+}
+
+@media screen and (min-width: 570px) and (max-width: 720px) {
 
     .medical{
         margin-left: 1%;
