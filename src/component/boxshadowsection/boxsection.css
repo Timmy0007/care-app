@@ -99,14 +99,14 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .boxsection{
-        margin-left: 0;
+        margin-left: 10%;
         margin-top: -120px;
-        width: 220%;
+        width: 270%;
         gap: 3%;
     }
 
     .pat, .regd, .happy{
-        font-size: 18px;
+        font-size: 22px;
     }
 
     .pat{
@@ -255,7 +255,7 @@
 
 }
 
-@media screen and (min-width: 1021px) and (max-width: 1380px) {
+@media screen and (min-width: 1021px) and (max-width: 1250px) {
 
     .boxsection{
         padding-left: 13%;

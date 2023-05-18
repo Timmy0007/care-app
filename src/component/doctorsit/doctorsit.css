@@ -218,6 +218,10 @@
 
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
+    .doctorsit{
+        margin-left: 10%;
+    }
+
     .doctorsit2{
         display: none;
     }
@@ -225,6 +229,11 @@
     .doctorsit1{
         margin-left: 50%;
     }
+
+    .signupp1, .verif1, .makepay1, .cons1{
+        font-size: 16x ;
+    }
+
     .signupp{
         width: 30%;
         height: 5.5%;

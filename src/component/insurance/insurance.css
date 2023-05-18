@@ -87,10 +87,26 @@
         display: none;
     }
 
+    .insurance{
+        margin-left: 10%;
+    }
+
     .insurance1{
-        margin-left: 50%;
+        margin-left: 60%;
     }
     
+    .worry{
+        font-size: 35px;
+    }
+
+     .worry2{
+        margin-top: -25px;
+        font-size: 29px;
+    }
+
+    .chatd{
+        margin-top: 35%;
+    }
     
 }
 
