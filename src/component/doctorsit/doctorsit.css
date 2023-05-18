@@ -219,46 +219,47 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .doctorsit{
-        margin-left: 10%;
+        margin-left: 80%;
     }
 
     .doctorsit2{
         display: none;
     }
 
-    .doctorsit1{
-        margin-left: 50%;
-    }
 
     .signupp1, .verif1, .makepay1, .cons1{
-        font-size: 16x ;
+        font-size: 27px ;
     }
 
     .signupp{
-        width: 30%;
+        width: 40%;
         height: 5.5%;
     }
 
     .verif{
         margin-top: 25%;
-        width: 30%;
+        width: 48%;
         height: 5%;
     }
 
     .makepay{
-        margin-top: 25%;
-        width: 35%;
+        margin-top: 33%;
+        width: 55%;
         height: 5%;
     }
 
     .cons{
-        margin-top: 28%;
-        width: 30%;
-        height: 4.5%;
+        margin-top: 32%;
+        width: 50%;
+        height: 5%;
+    }
+
+    .signupp2, .verif2, .makepay2, .cons2{
+        font-size: 20px;
     }
 
     .cons2{
-        margin-bottom: 25%;
+        margin-bottom: 35%;
     }
 
 }

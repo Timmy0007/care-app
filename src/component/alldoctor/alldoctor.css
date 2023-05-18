@@ -236,9 +236,10 @@
 
     .alldoctor{
         margin-left: 2%;
-        width: fit-content;
+        width: 300%;
         background-color: whitesmoke;
         margin-bottom: -150px;
+        padding-left: 30%;
     }
 
     .medical{
