@@ -50,8 +50,31 @@
     margin-left: 2%;
 }
 
+@media screen and (min-width: 350px) and (max-width: 569px) {
 
-@media screen and (max-width: 720px) {
+    .wondering{
+        margin-left: 20%;
+        margin-bottom: 220px;
+    }
+
+    .wondering1{
+        margin-left: -10%;
+        width: 100%;
+    }
+
+    .wondering2{
+        margin-left: -10%;
+        width: 100%;
+        font-size: 27px;
+        margin-top: 22%;
+    }
+
+    .personimg{
+        margin-left: -10%;
+    }
+}
+
+@media screen and (min-width: 570px) and (max-width: 720px) {
     .wondering{
         margin-left: 0;
         margin-bottom: 150px;

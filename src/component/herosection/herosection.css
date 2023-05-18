@@ -90,20 +90,25 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .we-bring{
-        font-size: 22px;
+        width: 190%;
+        font-size: 29px;
     }
 
     .careapp-works, .our-doctors{
-        font-size: 17px;
+        width: 120%;
+        font-size: 26px;
     }
 
+    .herosection1{
+        width: 60%;
+    }
     .herosection2{
-        margin-left: 1%;
+        margin-left: 50%;
     }
     .heroimg{
         margin-top: 70px;
-        width: 300px ;
-        height: 350px ;
+        width: 400px ;
+        height: 450px ;
     }
 
     .herosection{

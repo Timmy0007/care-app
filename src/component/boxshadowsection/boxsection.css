@@ -99,8 +99,9 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .boxsection{
+        margin-left: 0;
         margin-top: -120px;
-        width: 140%;
+        width: 220%;
         gap: 3%;
     }
 
@@ -119,7 +120,7 @@
 
     .plus1{
         font-size: 32px;
-        width: 100%;
+        width: 80%;
         padding-top: 28px;
         padding-left: 20%;
     }
@@ -130,7 +131,7 @@
 
     .plus2{
         font-size: 29px;
-        width: 80%;
+        width: 70%;
         padding-top: 28px;
         padding-left: 25%;
     }
@@ -145,7 +146,7 @@
     }
 
     .plus3{
-        width: 60%;
+        width: 50%;
         font-size: 29px;
         margin-left: 20%;
         padding-top: 28px;
