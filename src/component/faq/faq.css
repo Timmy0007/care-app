@@ -138,9 +138,21 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .faq{
-        width: 250%;
+        margin-left: 10%;
+        width: 320%;
     }
 
+    .faqsub{
+        font-size: 23px;
+    }
+
+    .question{
+        line-height: 35px;
+    }
+
+    .faqimg{
+        margin-left: 0;
+    }
 }
 
 @media screen and (min-width: 570px) and (max-width: 720px) {
