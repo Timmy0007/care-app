@@ -100,7 +100,11 @@
         margin-left: -4%;
     }
 
+    .health2{
+        font-size: 39px;
+    }
     .health3{
+        font-size: 32px;
         margin-left: 10%;
         width: 80%;
     }

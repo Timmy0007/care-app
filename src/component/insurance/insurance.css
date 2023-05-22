@@ -87,21 +87,19 @@
         display: none;
     }
 
-    .insurance{
-        margin-left: 10%;
-    }
 
     .insurance1{
-        margin-left: 60%;
+        margin-left:50%;
     }
     
     .worry{
-        font-size: 35px;
+        font-size: 39px;
     }
 
      .worry2{
         margin-top: -25px;
-        font-size: 29px;
+        font-size: 35px;
+        width: 200%;
     }
 
     .chatd{

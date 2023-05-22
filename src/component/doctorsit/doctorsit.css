@@ -226,36 +226,51 @@
         display: none;
     }
 
+    .yes{
+        font-size: 34px;
+        width: 200%;
+    }
+
+    .ourd{
+        margin-top: 25px;
+        width: 200%;
+        font-size: 29px;
+    }
+
+    .how{
+        margin-top: 75%;
+    }
 
     .signupp1, .verif1, .makepay1, .cons1{
-        font-size: 27px ;
+        font-size: 38px ;
     }
 
     .signupp{
-        width: 40%;
+        width:90%;
         height: 5.5%;
     }
 
     .verif{
-        margin-top: 25%;
-        width: 48%;
+        margin-top: 80%;
+        width: 115%;
         height: 5%;
     }
 
     .makepay{
-        margin-top: 33%;
-        width: 55%;
+        margin-top: 100%;
+        width: 140%;
         height: 5%;
     }
 
     .cons{
-        margin-top: 32%;
-        width: 50%;
+        margin-top: 127%;
+        width: 120%;
         height: 5%;
     }
 
     .signupp2, .verif2, .makepay2, .cons2{
-        font-size: 20px;
+        font-size: 32px;
+        width: 190%;
     }
 
     .cons2{

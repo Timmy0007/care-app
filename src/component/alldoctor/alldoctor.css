@@ -235,6 +235,7 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .alldoctor{
+        margin-top: 50%;
         margin-left: 2%;
         width: 350%;
         background-color: whitesmoke;
@@ -248,12 +249,13 @@
 
     .medical1{
         margin-left: -3%;
-        font-size: 35px;
+        font-size: 39px;
     }
 
     .medical2{
-        margin-left: 5%;
-        font-size: 19px;
+        margin-left: -11%;
+        width: 100%;
+        font-size: 32px;
     }
 
     .doctors{
