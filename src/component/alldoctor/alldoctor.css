@@ -5,7 +5,7 @@
 }
 
 .medical{
-    margin-left: 30%;
+    margin-left: 25%;
     display: flex;
 }
 
@@ -47,14 +47,14 @@
 }
 
 .syringe{
-    margin-left: 18%;
+    margin-left: 10%;
     width: 13%;
     height: 17%;
 }
 
 .alldoctors{
     margin-top: 3%;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 
 .add-btn{
@@ -182,7 +182,7 @@
 
 .d1, .d2{
     display: flex;
-    margin-left: 13%;
+    margin-left: 2%;
     margin-top: 7%;
     gap: 9%;
 }
@@ -587,7 +587,7 @@
     }
 
 }
-@media screen and (min-width: 1021px) and (max-width: 1480px) {
+@media screen and (min-width: 1021px) and (max-width: 1250px) {
 
 
     .medical1{
@@ -607,7 +607,7 @@
     }
     
     .syringe{
-        margin-left: -17%;
+        margin-left: -10%;
     }
 
     .d1, .d2{

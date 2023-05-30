@@ -20,7 +20,7 @@
 .faqimg{
     width: 159px;
     height: 159px;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 
 .faqheading{
@@ -211,16 +211,17 @@
 
 }
 
-@media screen and (min-width: 1021px) and (max-width: 1480px) {
+@media screen and (min-width: 1021px) and (max-width: 1230px) {
 
     .faqsub{
         font-size: 23px;
-        width: 95%;
+        width: 75%;
     }
 
     .faqimg{
         width: 20%;
-        margin-left: -30%;
+        margin-top: 10%;
+        margin-left: -50%;
     }
     
     .question{

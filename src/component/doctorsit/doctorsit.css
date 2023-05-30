@@ -361,7 +361,7 @@
     }
 }
 
-@media screen and (min-width: 1021px) and (max-width: 1580px) {
+@media screen and (min-width: 1021px) and (max-width: 1430px) {
 
     .doctorsit{
         margin-top: 120px;
@@ -416,9 +416,9 @@
 
     .doctorsit2{
         margin-top: 300px;
-        margin-left: -13%;
     }
     .doctorsitimg{
+        margin-left: -30%;
         width: 120%;
         height: 80%;
     }

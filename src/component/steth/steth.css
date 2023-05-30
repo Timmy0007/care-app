@@ -102,7 +102,6 @@
 
     .steth{
         background-size: 775px;
-        height: fit-content;
         padding-top: 15px;
      }
      
@@ -178,7 +177,7 @@
 
 @media screen and (min-width: 1021px) and (max-width: 1480px) {
     .steth{
-        background-size: 130%;
+        background-size: 100%;
         height: 500px;
         padding-top: 15px;
      }
