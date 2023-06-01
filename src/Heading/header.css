@@ -107,7 +107,7 @@
     color: #FFFFFF;
 }
 
-.login-btn{
+.login-bttn{
     width: 123px;
     height: 43px;
     padding: 8px 28px;
@@ -138,29 +138,39 @@
 
 @media screen and (max-width: 569px) {
 
-
     .header{
-        margin-left: 3% ;
-       }
-    
-
+        margin-left: 0;
+    }
 
        .section1{
-        gap: 15%;
+        margin: 0;
+        gap: 5%;
        }
     
+       .careimg{
+        margin-top: 10px;
+        width: 40%;
+        height: 50%;
+       }
+
+       .careapp{
+        margin-left: 1px;
+        margin-top: 10px;
+        font-size:12px;
+       }
+
        .section2{
         margin-top: 2%;
-        margin-left: 25%;
-        gap: 20%;
+        margin-left: 8%;
+        gap: 6%;
        }
     
        .home{
-        font-size: 24px;
+        font-size: 12px;
        }
 
        .services, .payment{
-        font-size: 20px;
+        font-size: 11px;
        }
     
        .services, .payment{
@@ -168,30 +178,34 @@
        }
     
        .section3{
-        gap: 4%;
-        margin-top: 1%;
-        margin-left: 45%;
+        gap: 2%;
+        margin-top: 3%;
+        margin-left: 7%;
        }
     
        .header-signup-btn{
-        width: 60%;
-        height: 35px;
+        width: 29%;
+        height: 35%;
        }
     
        .signup{
-        font-size: 20px;
-        margin-top: -8px;
+        font-size: 10px;
+        margin-top: -14px;
+        margin-left: -31px;
        }
     
-       .login-btn{
-        margin-left: 10%;
-        width: 55%;
-        height: 35px;
+       .login-bttn{
+        width: 20%;
+        height: 27%;
+        margin-top: -1px;
+        padding: 8px 26px;
        }
     
        .login{
-        font-size: 18px;
-        margin-top: -8px;
+        margin-top: -20%;
+        margin-left: -31px;
+        font-size: 10px;
+        margin-top: -12px;
        } 
 
 }
