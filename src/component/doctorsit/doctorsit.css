@@ -219,7 +219,7 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .doctorsit{
-        margin-left: 80%;
+        margin-left: 10%;
     }
 
     .doctorsit2{
@@ -227,50 +227,57 @@
     }
 
     .yes{
-        font-size: 34px;
-        width: 200%;
+        font-size: 18px;
+        width: 80%;
     }
 
     .ourd{
         margin-top: 25px;
-        width: 200%;
-        font-size: 29px;
+        width: 70%;
+        font-size: 15px;
     }
 
     .how{
-        margin-top: 75%;
+        width: 120px;
+        height: 40px;
+        margin-top: 25%;
+    }
+
+    .how2{
+        margin-top: 5px;
+        font-size: 15px;
     }
 
     .signupp1, .verif1, .makepay1, .cons1{
-        font-size: 38px ;
+        font-size: 14px ;
     }
 
     .signupp{
-        width:90%;
-        height: 5.5%;
+        width:32%;
+        height: 3.5%;
     }
 
     .verif{
-        margin-top: 80%;
-        width: 115%;
-        height: 5%;
+        margin-top: 15%;
+        width: 34%;
+        height: 3.2%;
     }
 
     .makepay{
-        margin-top: 100%;
-        width: 140%;
-        height: 5%;
+        margin-top: 15%;
+        width: 40%;
+        height: 3.5%;
     }
 
     .cons{
-        margin-top: 127%;
-        width: 120%;
-        height: 5%;
+        margin-top: 17%;
+        width: 37%;
+        height: 3.5%;
     }
 
     .signupp2, .verif2, .makepay2, .cons2{
-        font-size: 32px;
-        width: 190%;
+        font-size: 12px;
+        width: 70%;
     }
 
     .cons2{

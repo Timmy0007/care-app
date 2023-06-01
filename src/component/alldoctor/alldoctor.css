@@ -236,11 +236,11 @@
 
     .alldoctor{
         margin-top: 50%;
-        margin-left: 2%;
-        width: 350%;
+        margin-left: -2%;
+        width:100%;
         background-color: whitesmoke;
         margin-bottom: -150px;
-        padding-left: 30%;
+        padding-left: 10%;
     }
 
     .medical{
@@ -248,14 +248,14 @@
     }
 
     .medical1{
-        margin-left: -3%;
-        font-size: 39px;
+        margin-left: -36%;
+        font-size: 17px;
     }
 
     .medical2{
-        margin-left: -11%;
-        width: 100%;
-        font-size: 32px;
+        margin-left: -8%;
+        width: 45%;
+        font-size: 15px;
     }
 
     .doctors{
@@ -268,7 +268,11 @@
 
     .d1, .d2{
         gap: 1%;
-        margin-left: 10%;
+        margin-left: -5%;
+    }
+
+    .d2{
+        margin-top: -40%;
     }
 
     .syringe{
@@ -287,76 +291,80 @@
     }
 
     #gynename{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #gyne1{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #cardioname{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #cardiowork{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neuroname{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neurowork{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
     
     #gynework{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neuroname{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neurowork{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neuroname2{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #neurowork2{
-        font-size: 14px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     }
 
     #cardioname2{
-        font-size: 15px;
+        font-size: 10px;
         margin-left: 3%;
         width: 100%;
     } 
+
+    #cardiowork2{
+        font-size: 10px;
+    }
 
 }
 

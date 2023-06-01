@@ -54,25 +54,30 @@
 
     .wondering{
         margin-top: 50px;
-        margin-left: 40%;
+        margin-left: 10%;
         margin-bottom: 220px;
     }
 
     .wondering1{
-        margin-left: -10%;
-        width: 150%;
-        font-size: 38px;
+        margin-left: -28%;
+        width: 100%;
+        line-height: 40px;
+        font-size: 20px;
     }
 
     .wondering2{
-        margin-left: -10%;
-        width: 150%;
-        font-size: 32px;
-        margin-top: 22%;
+        margin-left: -28%;
+        width: 100%;
+        font-size: 15px;
     }
 
     .personimg{
-        margin-left: -10%;
+        width: 100%;
+        margin-left: -25%;
+    }
+
+    .drugg{
+        width: 100%;
     }
 }
 
