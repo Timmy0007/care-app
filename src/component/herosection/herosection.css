@@ -87,28 +87,28 @@
 }
 
 
-@media screen and (min-width: 350px) and (max-width: 569px) {
+@media screen and (max-width: 569px) {
 
     .we-bring{
-        width: 210%;
+        width: 100%;
         font-size: 34px;
     }
 
     .careapp-works, .our-doctors{
-        width: 150%;
-        font-size: 29px;
+        width: 100%;
+        font-size: 20px;
     }
 
     .herosection1{
-        width: 80%;
+        width: 70%;
     }
     .herosection2{
-        margin-left: 100%;
+        margin-left: 50%;
     }
     .heroimg{
         margin-top: 70px;
-        width: 720px ;
-        height: 550px ;
+        width: 300px;
+        height:250px ;
     }
 
     .herosection{
@@ -212,8 +212,7 @@
         }
 }
 
-@media screen and (min-width: 1021px) and (max-width: 1380px) {
-
+@media screen and (min-width: 1021px) and (max-width: 1250px) {
     .we-bring{
         font-size: 37px;
     }

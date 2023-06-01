@@ -1,6 +1,6 @@
 .header{
     margin-top: 3%;
-    margin-left: 7%;
+    margin-left: 2%;
     display: flex;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .section1{
-    Gap: 40%; 
+    Gap: 30%; 
     display: flex;
 }
 
@@ -47,7 +47,7 @@
 .section2{
     margin-top: 0.5%;
     margin-left: 15%;
-    gap: 55%;
+    gap: 35%;
     display: flex;
     font-family: Avenir Next;
     font-style: normal;
@@ -79,8 +79,8 @@
 }
 
 .section3{
-    margin-left: 30%;
-    gap: 50%;
+    margin-left: 25%;
+    gap: 20%;
     display: flex;
     font-family: Avenir Next;
     font-style: normal;
@@ -138,18 +138,13 @@
 
 @media screen and (max-width: 569px) {
 
-    .heading{
-        width: 100%;
-    }
-
-    .hr{
-        width: 100%;
-    }
 
     .header{
         margin-left: 3% ;
        }
     
+
+
        .section1{
         gap: 15%;
        }
@@ -157,7 +152,7 @@
        .section2{
         margin-top: 2%;
         margin-left: 25%;
-        gap: 40%;
+        gap: 20%;
        }
     
        .home{
@@ -175,7 +170,7 @@
        .section3{
         gap: 4%;
         margin-top: 1%;
-        margin-left: 85%;
+        margin-left: 45%;
        }
     
        .header-signup-btn{
@@ -475,7 +470,7 @@
    }
 }
 
-@media screen and (min-width: 1101px) and (max-width: 1200px) {
+@media screen and (min-width: 1101px) and (max-width: 1150px) {
     .header{
     margin-left: 7% ;
    }
@@ -529,7 +524,7 @@
    }
 }
 
-@media screen and (min-width: 1201px) and (max-width: 1280px) {
+/* @media screen and (min-width: 1201px) and (max-width: 1250px) {
     .header{
     margin-left: 7% ;
    }
@@ -576,14 +571,14 @@
    }
 
    .login{
-    width: 70px;
+    width: 70px; 
     font-size: 17px;
     margin-left: -10px;
     margin-top: -6px;
    }
 }
 
-@media screen and (min-width: 1281px) and (max-width: 1400px) {
+/* @media screen and (min-width: 1281px) and (max-width: 1400px) {
 
     .section2{
         margin-left: 17%;
@@ -606,4 +601,4 @@
         margin-left: 30%;
         gap: 30%;
        }
-}
+}  */
