@@ -235,7 +235,7 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .alldoctor{
-        margin-top: 50%;
+        margin-top: -20%;
         margin-left: -2%;
         width:100%;
         background-color: whitesmoke;
@@ -276,7 +276,7 @@
     }
 
     .syringe{
-        margin-left: -7%;
+        display: none;
     }
     #cardiodoc, #neurodoc, #cardiodoc2{
         margin-left: -5%;

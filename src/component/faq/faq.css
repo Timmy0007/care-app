@@ -138,20 +138,45 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
     .faq{
-        margin-left: 10%;
-        width: 370%;
+        width: 100%;
+    }
+
+    .faqheading{
+        margin-left: -3%;
+        width: 100%;
+        font-size: 18px;
+    }
+
+    #faqline
+    {
+        width: 100%;
     }
 
     .faqsub{
-        font-size: 23px;
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .faq2{
+        margin-top: 12%;
     }
 
     .question{
-        line-height: 35px;
+        line-height: 25px;
+        font-size: 14px;
+        width: 95%;
+    }
+
+    .answer, .answers{
+        line-height: 20px;
+        font-size: 15px;
+        width: 80%;   
     }
 
     .faqimg{
-        margin-left: 0;
+        margin-top: 12px;
+        width: 40px;
+        height: 40px;
     }
 }
 

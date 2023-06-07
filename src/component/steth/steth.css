@@ -77,25 +77,41 @@
 @media screen and (min-width: 350px) and (max-width: 569px) {
 
    .steth{
-      width: 370%;
+      background-size: 100%;
+      height: 130px;
    }
 
-   .steth{
-      font-size: 33px;
-      line-height: 38px;
+   .steth1{
+      width: 80%;
+      margin-top: -60px;
+      font-size: 15px;
+      line-height: 23px;
    }
 
    .steth2{
-      font-size: 28px;
+      width: 70%;
+      font-size: 12px;
+      margin-top: -150px;
    }
 
    .stethchat{
-      margin-top: 15%;
+      margin-top: 5px;
       padding-top: 1%;
-      width: 28%;
-      height: 25%;
+      width: 150px;
+      height: 30px;
    }
 
+   .stethchat2{
+      margin-top: 4px;
+      font-size: 12px;
+      line-height: normal;
+   }
+
+   .stethwechat{
+      margin-top: 2px;
+      width: 20px;
+      height: 20px;
+   }
 }
 
 @media screen and (min-width: 570px) and (max-width: 720px) {
@@ -121,6 +137,7 @@
     margin-top: 70px;
     padding-bottom: 50px;
  }
+
  .stethchat{
     width: 180px;
     height: 50px;
