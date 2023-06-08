@@ -13,7 +13,7 @@ import Steth from '../component/steth/steth'
 import Footer from '../component/footer/footer'
 const homepage = () => {
   return (
-    <div>
+    <div className='homep'>
    <Header/>
    <Herosection/>
    <Section3/>
